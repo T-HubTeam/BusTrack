@@ -1,0 +1,1 @@
+create table tag as select distinct table_1.col_2, table_2.area, table_2.bus_num from table_1 inner join table_2 on table_1.col_5 = table_2.area;
