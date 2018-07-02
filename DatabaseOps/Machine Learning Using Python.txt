@@ -1,0 +1,37 @@
+Machine Learning Using Python
+
+This course covers introduction to Machine Learning and the overview of the concepts of Machine Learning using python
+The course introduce you the Basics of python and the packages required to do 
+Machine learning programming in python like Pandas,Numpy,Matplotlib,Scikit.Course module covers Supervised and Unsupervised Learning types 
+and course covers the Regression and classification algorithms.
+
+
+OUTLINE
+
+1) What is Machine Learning ? 
+
+2) why python for Machine Learning and packages for Machine Learning in python.
+
+3) Learning about the Different types of Algorithms.
+
+4) Coding a Machine Learning Algorithm using Python.
+
+
+Certification Exam
+
+	
+
+Course Completion Certificate
+
+	At the end of your training program you will be awarded with certificate
+	of completion from Technical Hub.
+
+Hands On Exercises
+
+	Your training is packed with Real problem scenarios, assignments, 
+	assesment tests, and code challenges.
+
+Live Project
+
+	Building a Prediction model for one of the existing real world cases.
+
